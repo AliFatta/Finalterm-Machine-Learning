@@ -1,4 +1,4 @@
-# Machine Learning Projects Portfolio
+# Finalterm Machine Learning
 
 This repository contains three machine learning projects covering fraud detection, regression prediction, and image classification using various advanced techniques and algorithms.
 
